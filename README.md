@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Evan, an incoming CS student at UCI, and am interested in robotics and computer vision!
+I'm a student at UCI and am interested in robotics and computer vision!
 Previously I worked with Team 670 to program a robot to compete in the FRC, and now I'm just fooling around with openCV until I figure out what I want to make from it.
 My main languages are Python and Java, and I'm currently in the midst of seeking a Summer 2027 Internship!
 
