@@ -1,7 +1,5 @@
 ## Hi there 👋
-I'm a student at UCI and am interested in robotics and computer vision!
-Previously I worked with Team 670 to program a robot to compete in the FRC, and now I'm just fooling around with openCV until I figure out what I want to make with it.
-My main languages are Python and Java, and I'm currently in the midst of seeking a Summer 2027 Internship!
+I'm a CS student at UCI. Please reach out to me at evo.wescott@gmail.com
 
 <!--
 **evanw1314/evanw1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
