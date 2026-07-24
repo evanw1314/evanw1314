@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a CS student at UCI. Please reach out to me at evo.wescott@gmail.com
+I'm a CS student at UCI. Any questions, comments, or concerns should go to evo.wescott@gmail.com
 
 <!--
 **evanw1314/evanw1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
