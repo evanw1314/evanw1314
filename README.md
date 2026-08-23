@@ -1,5 +1,9 @@
 ## Hi there 👋
-I'm a CS student at UCI. Any questions, comments, or concerns should go to evo.wescott@gmail.com. Thank you!
+I'm currently studying **Computer Science** at **UC Irvine**.
+
+If anything comes up, please let me know by sending an email to evo.wescott@gmail.com. 
+
+Thank you, and have a blessed day!
 
 <!--
 **evanw1314/evanw1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
